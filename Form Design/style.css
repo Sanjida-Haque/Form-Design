@@ -1,0 +1,202 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+  background-color: pink;
+}
+h1{
+  text-align: center;
+  color: rgb(0, 132, 255) ;
+  
+}
+/* Form Section1 Start */
+#one{
+  background-color: white;
+  border: none;
+  border-radius: 10px;
+  border-top: 4px solid orangered ;
+  border-bottom: 4px solid orangered ;
+  box-sizing: border-box;
+  height: 750px;
+  width: 550px;
+  margin: 30px 0 30px 35%;
+  padding: 50px;
+
+}
+input{
+  height: 50px;
+  width: 450px;
+  border: 2px solid orangered;
+}
+label{
+  font-weight: bold;
+  font-size: 18px;
+}
+
+#submit{
+  background-color: orangered ;
+  border: none;
+  height: 40px;
+  width: 450px;
+  color: white;
+}
+#submit:hover{
+  background-color: rgb(230, 90, 48);
+
+}
+/* Form Section1 End */
+
+/* Form Section2 Start */
+#two{
+
+  background-color: white;
+  border: none;
+  border-radius: 10px;
+  border-top: 4px solid rgb(0, 132, 255); ;
+  box-sizing: border-box;
+  height: 850px;
+  width: 550px;
+  margin: 30px 0 30px 35%;
+  padding: 50px;
+
+
+}
+
+#Fname{
+  height: 50px;
+  width: 450px;
+  border: 2px solid rgb(0, 132, 255);;
+
+}
+
+#Lname{
+  height: 50px;
+  width: 450px;
+  border: 2px solid rgb(0, 132, 255);;
+
+}
+
+#address{
+  height: 50px;
+  width: 450px;
+  border: 2px solid rgb(0, 132, 255);;
+
+}
+
+#city{
+  height: 50px;
+  width: 450px;
+  border: 2px solid rgb(0, 132, 255);;
+
+}
+
+#zc{
+  height: 50px;
+  width: 450px;
+  border: 2px solid rgb(0, 132, 255);;
+
+}
+
+button{
+  background-color: rgb(0, 132, 255) ;
+  border: none;
+  height: 40px;
+  width: 450px;
+  color: white;
+
+}
+button:hover{
+  background-color: rgb(124, 187, 245);
+
+}
+
+/* Form Section2 End */
+
+/* Form Section3 Start */
+#three{
+
+  background-color: #00abb5;
+  border: none;
+  box-sizing: border-box;
+  height: 650px;
+  width: 550px;
+  margin: 60px 0 60px 35%;
+  padding: 50px;
+
+
+}
+
+
+#cf{
+  color: white;
+  font-size: 30px;
+}
+
+#name{
+  height: 50px;
+  width: 100%;
+  box-sizing: border-box;
+  border: none;
+  padding: 10px;
+  display: block;
+
+}
+#email{
+  height: 50px;
+  width: 100%;
+  box-sizing: border-box;
+  border: none;
+  padding: 10px;
+  display: block;
+
+}
+#check{
+  color: white;
+}
+
+textarea {
+  width: 100%;
+  height: 150px;
+  padding: 12px 20px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  background-color: #f8f8f8;
+  font-size: 16px;
+  resize: none;
+}
+
+input[type="checkbox"]{
+  display: inline-block;
+  height: 25px;
+  width: 25px;
+  margin: 10px 10px 10px 0;
+  
+}
+#checkbox {
+  display: inline-block;
+  height: 30px;
+  width: 30px;
+
+}
+
+#send{
+  background-color: white;
+  border: none;
+  border-color: #00abb5;
+  height: 40px;
+  width: 200px;
+  color: black;
+  margin-left:0 auto;
+  padding: 10px;
+
+}
+
+#send:hover{
+  background-color: #00abb5;
+}
+
+/* Form Section2 End */
+
